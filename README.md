@@ -23,9 +23,9 @@ This project was undertaken as part of a cohort organized by **E-Cell IIT Guwaha
 
 ## 🔍 Methodology
 
-- 👥 **User Survey**: Feedback from 30+ Gen Z users
+- 👥 **User Survey**: Feedback from 50+ Gen Z users
 - 🧠 **Market Research**: Studied sustainable e-commerce trends
-- 🛠️ **Tools Used**: Canva, Lovably.ai, Figma, Google Forms
+- 🛠️ **Tools Used**: Canva, Lovable.dev, Figma, Google Forms
 
 ---
 
