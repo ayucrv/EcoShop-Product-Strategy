@@ -64,3 +64,4 @@ Check out our prototype screenshots and design ideas in the `prototype/` and `as
 👩‍💻 Managed and contributed by Ayusee Rabha , Himashree Baro , Kaberi Pegu , Otsur Pegu. Conducted research, led strategy & GTM creation, collaborated on design.
 
 ---
+Contributor:Himashree Baro
